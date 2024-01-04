@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Арсений\Desktop\Учеба 13 семестр\МРКМ\Lab 3-4\ConsoleApplication1\ConsoleApplication1.cpp(153,10): warning C4102: GetRandom: неиспользованная метка
+C:\Users\Арсений\Desktop\Учеба 13 семестр\МРКМ\Lab 3-4\ConsoleApplication1\ConsoleApplication1.cpp(251,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Арсений\Desktop\Учеба 13 семестр\МРКМ\Lab 3-4\Debug\ConsoleApplication1.exe
