@@ -1,0 +1,3 @@
+wants to load
+File encrypted and saved as ./out/enc_3.bin
+File decrypted and saved as ./out/dec_3.bin
